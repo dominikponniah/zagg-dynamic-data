@@ -1,4 +1,4 @@
 {
-  "url": "https://instdbapi.ctbern.ch",
+  "url": "https://instdbapi.ctbern.ch/v1/visits",
   "privateRelay": "zaggprivaterelay"
 }
