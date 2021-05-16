@@ -1,4 +1,5 @@
 [
+  {
   "zaggVenue_001": {
     "controls": [
       {
@@ -8,5 +9,6 @@
         "linkURL": "https://cafe-de-paris-interlaken.ch/wp-content/plugins/pdf-viewer-block/inc/pdfjs/web/viewer.html?file=https://cafe-de-paris-interlaken.ch/filehosting/uploads/cafedeparis.pdf"
       }
     ]
+  }
   }
 ]
