@@ -2,9 +2,9 @@
   "zaggVenue_001": {
     "controls": [
       {
-        "title": "Neugierig?",
-        "description": "Sieh dir unser aktuelles Tagesmenü an.",
-        "buttonText": "Anzeigen",
+        "title": "Hungrig?",
+        "description": "Bei uns wechselt das Angebot täglich. Sieh Dir die heutigen Hits auf dem Tagesmenü an!",
+        "buttonText": "Digitales Tagesmenü öffnen",
         "linkURL": "https://cafe-de-paris-interlaken.ch/wp-content/plugins/pdf-viewer-block/inc/pdfjs/web/viewer.html?file=https://cafe-de-paris-interlaken.ch/filehosting/uploads/cafedeparis.pdf"
       }
     ]
