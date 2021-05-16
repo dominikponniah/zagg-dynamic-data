@@ -3,7 +3,7 @@
     "controls": [
       {
         "title": "Neugierig?",
-        "description": "Sieh dir unser aktuelles Tagesmenü an."
+        "description": "Sieh dir unser aktuelles Tagesmenü an.",
         "buttonText": "Anzeigen",
         "linkURL": "https://cafe-de-paris-interlaken.ch/wp-content/plugins/pdf-viewer-block/inc/pdfjs/web/viewer.html?file=https://cafe-de-paris-interlaken.ch/filehosting/uploads/cafedeparis.pdf"
       }
