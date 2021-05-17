@@ -3,10 +3,10 @@
   "zaggVenue_001": {
     "controls": [
       {
-        "title": "Hungrig?",
-        "description": "Bei uns wechselt das Angebot täglich. Sieh Dir die heutigen Hits auf dem digitalen Tagesmenü direkt am Smartphone an!",
-        "buttonText": "Zum Tagesmenü",
-        "linkURL": "https://cafe-de-paris-interlaken.ch/wp-content/plugins/pdf-viewer-block/inc/pdfjs/web/viewer.html?file=https://cafe-de-paris-interlaken.ch/filehosting/uploads/cafedeparis.pdf"
+        "title": "Auf der sicheren Seite",
+        "description": "Denk' bitte daran, dass Du dich an die aktuellen Regeln hälst und deine Maske aufsetzt, sobald Du deinen Tisch verlässt.",
+        "buttonText": "Zu den Regeln",
+        "linkURL": "https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html"
       }
     ]
   }
