@@ -3,11 +3,10 @@
   "zaggVenue_001": {
     "controls": [
       {
-        "title": "Hungrig?",
-        "buttonText": "Digitales Tagesmenü öffnen",
-        "description": "Bei uns wechselt das Angebot täglich. Sieh Dir die heutigen Hits auf dem digitalen Tagesmenü direkt am Smartphone an!",
-        "buttonText": "Zum Tagesmenü",
-        "linkURL": "https://cafe-de-paris-interlaken.ch/wp-content/plugins/pdf-viewer-block/inc/pdfjs/web/viewer.html?file=https://cafe-de-paris-interlaken.ch/filehosting/uploads/cafedeparis.pdf"
+        "title": "Hinweis! Bitte beachten!",
+        "buttonText": "Mehr dazu",
+        "description": "Jeder Gast muss sich einzeln registrieren! Desweiteren gilt eine Maskenpflicht und ein Mindestabstand von 1.5 Metern.",
+        "linkURL": "https://www.be.ch/portal/de/index/mediencenter/medienmitteilungen/suche.archiv.meldungNeu.html/portal/de/meldungen/mm/2020/08/20200813_0837_in_restaurants_giltneuregistrierungspflicht.html"
       }
     ]
   }
