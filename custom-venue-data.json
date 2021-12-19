@@ -9,6 +9,17 @@
         "linkURL": "https://www.be.ch/portal/de/index/mediencenter/medienmitteilungen/suche.archiv.meldungNeu.html/portal/de/meldungen/mm/2020/08/20200813_0837_in_restaurants_giltneuregistrierungspflicht.html"
       }
     ]
-  }
+  },
+      "TEST": {
+    "controls": [
+      {
+        "title": "Branding Inklusive!",
+        "buttonText": "Überrasche mich!",
+        "description": "Menükarte? Öffnungszeiten? Oder gar ein Instagram-Account? Kein Problem! In zagg können diese Informationen ganz einfach hinzugefügt werden.",
+        "linkURL": "https://example.com"
+      }
+    ]
+  },
+    
   }
 
