@@ -1,5 +1,4 @@
- [ 
-        {name: 'Schweiz / Suisse', code: 'CH'}, 
+ [{name: 'Schweiz / Suisse', code: 'CH'}, 
         {name: 'Deutschland', code: 'DE'}, 
         {name: 'Österreich', code: 'AT'}, 
         {name: 'Italia', code: 'IT'}, 
@@ -241,5 +240,4 @@
         {name: 'Western Sahara', code: 'EH'}, 
         {name: 'Yemen', code: 'YE'}, 
         {name: 'Zambia', code: 'ZM'}, 
-        {name: 'Zimbabwe', code: 'ZW'} 
-   ]
+        {name: 'Zimbabwe', code: 'ZW'} ]
